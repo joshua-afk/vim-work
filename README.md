@@ -8,3 +8,5 @@
 ### Installing cmder for env
 - Download the full version of [cmder](https://cmder.net/)
 - Extract all files to 'C:' folder
+- Add Neovim folder to 'environment variables'
+- Restart Computer
